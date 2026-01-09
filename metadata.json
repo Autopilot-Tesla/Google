@@ -1,0 +1,7 @@
+{
+  "name": "Gemini 3.0 Chat",
+  "description": "A feature-rich chat interface using Google's Gemini 3.0 API with support for thinking models, search grounding, and image analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
